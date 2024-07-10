@@ -10,7 +10,7 @@ PyYaml
 s3cmd
 simplejson
 swiftly
-paramiko
+paramiko @ git+https://github.com/TejasC88/paramiko#egg=paramiko 
 pandas
 pyarrow
 
